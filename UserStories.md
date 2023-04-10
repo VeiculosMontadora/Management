@@ -30,7 +30,7 @@
 <tr>
 <td colspan="3">
 <p><strong>User Stories:</strong></p>
-<p><span style="font-weight: 400;">E01-US01, E01-US02, E01-US03</span></p>
+ <a href="#E01-US01">E01-US01</a>, <a href="#E01-US02">E01-US02</a>, <a href="#E01-US03">E01-US03</a>
 </td>
 </tr>
 </tbody>
@@ -66,7 +66,7 @@
 <tr>
 <td colspan="3">
 <p><strong>User Stories:</strong></p>
-<p><span style="font-weight: 400;">E02-US01, E02-US02, E02-US03, E02-US4, E02-US05, E02-US06</span></p>
+<a href="#E02-US01">E02-US01</a>, <a href="#E02-US02">E02-US02</a>, <a href="#E02-US03">E02-US03</a>, <a href="#E02-US04">E02-US04</a>, <a href="#E02-US05">E02-US05</a>, <a href="#E02-US06">E02-US06</a>
 </td>
 </tr>
 </tbody>
@@ -102,7 +102,7 @@
 <tr>
 <td colspan="3">
 <p><strong>User Stories:</strong></p>
-<p><span style="font-weight: 400;">E03-US01, E03-US02, E03-US03, E03-US04, E03-US05, E03-US06</span></p>
+<a href="#E03-US01">E03-US01</a>, <a href="#E03-US02">E03-US02</a>, <a href="#E03-US03">E03-US03</a>, <a href="#E03-US04">E03-US04</a>, <a href="#E03-US05">E03-US05</a>, <a href="#E03-US06">E03-US06</a>
 </td>
 </tr>
 </tbody>
@@ -117,7 +117,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E01 - US01</strong></p>
+<a id="E01-US01"></a>
+<p><strong>E01-US01</strong></p>
 </td>
 </tr>
 <tr>
@@ -131,7 +132,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -169,7 +170,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E01 - US02</strong></p>
+<a id="E01-US02"></a>
+<p><strong>E01-US02</strong></p>
 </td>
 </tr>
 <tr>
@@ -183,7 +185,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -217,7 +219,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E01 - US03</strong></p>
+<a id="E01-US03"></a>
+<p><strong>E01-US03</strong></p>
 </td>
 </tr>
 <tr>
@@ -231,7 +234,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -265,7 +268,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E02 - US01</strong></p>
+<a id="E02-US01"></a>
+<p><strong>E02-US01</strong></p>
 </td>
 </tr>
 <tr>
@@ -279,7 +283,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -311,7 +315,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E02 - US02</strong></p>
+<a id="E02-US02"></a>
+<p><strong>E02-US02</strong></p>
 </td>
 </tr>
 <tr>
@@ -325,7 +330,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -356,7 +361,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E02 - US03</strong></p>
+<a id="E02-US03"></a>
+<p><strong>E02-US03</strong></p>
 </td>
 </tr>
 <tr>
@@ -370,7 +376,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -401,7 +407,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E02 - US04</strong></p>
+<a id="E02-US04"></a>
+<p><strong>E02-US04</strong></p>
 </td>
 </tr>
 <tr>
@@ -415,7 +422,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -446,7 +453,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E02 - US05 - </strong><strong>DEPENDENTE (US02, US03 e US04)</strong></p>
+<a id="E02-US05"></a>
+<p><strong>E02-US05 </strong><strong>DEPENDENTE (US02, US03 e US04)</strong></p>
 </td>
 </tr>
 <tr>
@@ -460,7 +468,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -489,7 +497,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E02 - US06</strong></p>
+<a id="E02-US06"></a>  
+<p><strong>E02-US06</strong></p>
 </td>
 </tr>
 <tr>
@@ -503,7 +512,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -532,7 +541,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E03 - US01</strong></p>
+<a id="E03-US01"></a>  
+<p><strong>E03-US01</strong></p>
 </td>
 </tr>
 <tr>
@@ -546,7 +556,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -586,7 +596,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E03 - US02</strong></p>
+<a id="E03-US02"></a>  
+<p><strong>E03-US02</strong></p>
 </td>
 </tr>
 <tr>
@@ -600,7 +611,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -634,7 +645,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E03 - US03</strong></p>
+<a id="E03-US03"></a>  
+<p><strong>E03-US03</strong></p>
 </td>
 </tr>
 <tr>
@@ -648,7 +660,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -682,7 +694,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E03 - US04</strong></p>
+<a id="E03-US04"></a>  
+<p><strong>E03-US04</strong></p>
 </td>
 </tr>
 <tr>
@@ -696,7 +709,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -732,7 +745,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E03 - US05</strong></p>
+<a id="E03-US05"></a>  
+<p><strong>E03-US05</strong></p>
 </td>
 </tr>
 <tr>
@@ -746,7 +760,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -776,7 +790,8 @@
 <tbody>
 <tr>
 <td colspan="3">
-<p><strong>E03 - US06</strong></p>
+<a id="E03-US06"></a>  
+<p><strong>E03-US06</strong></p>
 </td>
 </tr>
 <tr>
@@ -790,7 +805,7 @@
 </td>
 <td>
 <p><strong>Estimativa:</strong></p>
-<p><span style="font-weight: 400;">1 sprint</span></p>
+<p><span style="font-weight: 400;">A definir</span></p>
 </td>
 </tr>
 <tr>
@@ -815,4 +830,5 @@
 </table>
 
 ---
+
 
