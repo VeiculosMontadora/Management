@@ -1,29 +1,31 @@
 # $$\mathbb{USER \space STORIES}$$
 
 
-$\mathbb{ÉPICOS}$
+## $\mathbb{ÉPICOS}$
 
 <table>
-<tbody>
+<thead>
 <tr>
-<td colspan="3">
-<p><strong>E01</strong></p>
-</td>
+<th colspan="3">
+<p><span style="color: #339966;"><strong>E01</strong></span></p>
+</th>
 </tr>
 <tr>
-<td rowspan="2">
-<p><strong>T&iacute;tulo do &Eacute;pico</strong></p>
+<th rowspan="2">
+<p><strong>T&iacute;tulo</strong></p>
 <p><span style="font-weight: 400;">Envio de PDFs</span></p>
-</td>
-<td rowspan="2">
+</th>
+<th rowspan="2">
 <p><strong>Prioridade</strong></p>
 <p><span style="font-weight: 400;">Alta</span></p>
-</td>
-<td rowspan="2">
+</th>
+<th rowspan="2">
 <p><strong>Estimativa</strong></p>
-<p><span style="font-weight: 400;">A estimar</span></p>
-</td>
+<p><span style="font-weight: 400;">A definir</span></p>
+</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td colspan="3">
 <p><strong>User Stories:</strong></p>
@@ -34,6 +36,76 @@ $\mathbb{ÉPICOS}$
 </table>
 
 ---
+
+<table>
+<thead>
+<tr>
+<th colspan="3">
+<p><span style="color: #339966;"><strong>E02</strong></span></p>
+</th>
+</tr>
+<tr>
+<th rowspan="2">
+<p><strong>T&iacute;tulo</strong></p>
+<p><span style="font-weight: 400;">Extra&ccedil;&atilde;o de dados do&nbsp; PDF</span></p>
+</th>
+<th rowspan="2">
+<p><strong>Prioridade</strong></p>
+<p><span style="font-weight: 400;">Alta</span></p>
+</th>
+<th rowspan="2">
+<p><strong>Estimativa</strong></p>
+<p><span style="font-weight: 400;">A definir</span></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3">
+<p><strong>User Stories:</strong></p>
+<p><span style="font-weight: 400;">E02-US01, E02-US02, E02-US03, E02-US4, E02-US05, E02-US06</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+<table>
+<thead>
+<tr>
+<th colspan="3">
+<p><span style="color: #339966;"><strong>E03</strong></span></p>
+</th>
+</tr>
+<tr>
+<th rowspan="2">
+<p><strong>T&iacute;tulo</strong></p>
+<p><span style="font-weight: 400;">Visualizar os dados do PDF</span></p>
+</th>
+<th rowspan="2">
+<p><strong>Prioridade</strong></p>
+<p><span style="font-weight: 400;">Alta</span></p>
+</th>
+<th rowspan="2">
+<p><strong>Estimativa</strong></p>
+<p><span style="font-weight: 400;">A definir</span></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3">
+<p><strong>User Stories:</strong></p>
+<p><span style="font-weight: 400;">E03-US01, E03-US02, E03-US03, E03-US04, E03-US05, E03-US06</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## $\mathbb{USER \space STORIES}$
 
 <table>
 <tbody>
@@ -176,37 +248,6 @@ $\mathbb{ÉPICOS}$
 <p><span style="font-weight: 400;">-</span><span style="font-weight: 400;"> Deve ser identificado automaticamente qual a montadora do PDF e exibi-lo de forma clara.</span></p>
 <br />
 <p><span style="font-weight: 400;">- Caso o t&iacute;tulo do PDF n&atilde;o apresente qual a montadora, deve ser colocado manualmente</span></p>
-</td>
-</tr>
-</tbody>
-</table>
-
----
-
-<table>
-<tbody>
-<tr>
-<td colspan="3">
-<p><strong>E02</strong></p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p><strong>T&iacute;tulo do &Eacute;pico</strong></p>
-<p><span style="font-weight: 400;">Extra&ccedil;&atilde;o de dados do&nbsp; PDF</span></p>
-</td>
-<td rowspan="2">
-<p><strong>Prioridade</strong></p>
-<p><span style="font-weight: 400;">Alta</span></p>
-</td>
-<td rowspan="2">
-<p><strong>Estimativa</strong></p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p><strong>User Stories:</strong></p>
-<p><span style="font-weight: 400;">E02-US01, E02-US02, E02-US03, E02-US4, E02-US05, E02-US06</span></p>
 </td>
 </tr>
 </tbody>
@@ -474,41 +515,6 @@ $\mathbb{ÉPICOS}$
 <br />
 <p><span style="font-weight: 400;">- Deve ser extra&iacute;do a tabela com os MVS dos ve&iacute;culos do PDF.</span></p>
 <p><span style="font-weight: 400;">- Deve ser extra&iacute;do os dados de cada ve&iacute;culo procurando pela descri&ccedil;&atilde;o.</span></p>
-</td>
-</tr>
-</tbody>
-</table>
-
----
-
-<p><br /><br /></p>
-<table>
-<thead>
-<tr>
-<th colspan="3">
-<p><strong>E03</strong></p>
-</th>
-</tr>
-<tr>
-<th rowspan="2">
-<p><strong>T&iacute;tulo</strong></p>
-<p><span style="font-weight: 400;">Visualizar os dados do PDF</span></p>
-</th>
-<th rowspan="2">
-<p><strong>Prioridade</strong></p>
-<p><span style="font-weight: 400;">Alta</span></p>
-</th>
-<th rowspan="2">
-<p><strong>Estimativa</strong></p>
-<p><span style="font-weight: 400;">A definir</span></p>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="3">
-<p><strong>User Stories:</strong></p>
-<p><span style="font-weight: 400;">E03US01, E03US02, E02US03, E03US04, E03US05, E03US06</span></p>
 </td>
 </tr>
 </tbody>
