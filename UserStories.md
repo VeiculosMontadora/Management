@@ -1,8 +1,9 @@
 # $$\mathbb{USER \space STORIES}$$
 
 
-## $\mathbb{ÉPICOS}$
+## $\mathbb{EPICS}$
 
+<table align="center"><tr><td align="center" width="400">
 <table>
 <thead>
 <tr>
@@ -34,9 +35,11 @@
 </tr>
 </tbody>
 </table>
+</td></tr></table>
 
 ---
 
+<table align="center"><tr><td align="center" width="400">
 <table>
 <thead>
 <tr>
@@ -68,9 +71,11 @@
 </tr>
 </tbody>
 </table>
+</td></tr></table>
 
 ---
 
+<table align="center"><tr><td align="center" width="400">
 <table>
 <thead>
 <tr>
@@ -102,6 +107,7 @@
 </tr>
 </tbody>
 </table>
+</td></tr></table>
 
 ---
 
