@@ -24,11 +24,11 @@
 | 10:00 | |  :white_check_mark: | | | |
 | 11:00 | |  :white_check_mark: | | | |
 | 12:00 | |  | | | |
-| 13:00 | :white_check_mark: | :white_check_mark: | | | |
-| 14:00 | :white_check_mark: | :white_check_mark: | | | |
-| 15:00 | :white_check_mark: | :white_check_mark: | | | |
-| 16:00 | :white_check_mark: | :white_check_mark: | | | |
-| 17:00 | :white_check_mark: | :white_check_mark: | | | |
+| 13:00 | | :white_check_mark: | | | |
+| 14:00 | | :white_check_mark: | | | |
+| 15:00 | | :white_check_mark: | | | |
+| 16:00 | | :white_check_mark: | | | |
+| 17:00 | | :white_check_mark: | | | |
 | 18:00 | | | | | :white_check_mark: |
 | 19:00 | | | | | :white_check_mark: |
 | 20:00 | | | | | :white_check_mark: |
@@ -46,11 +46,11 @@
 | 10:00 | |  :white_check_mark: | | | |
 | 11:00 | |  :white_check_mark: | | | |
 | 12:00 | | | | | |
-| 13:00 | :white_check_mark: | :white_check_mark: | | | |
-| 14:00 | :white_check_mark: | :white_check_mark: | | | |
-| 15:00 | :white_check_mark: | :white_check_mark: | | | |
-| 16:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
-| 17:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | | |
+| 13:00 | | :white_check_mark: | | | |
+| 14:00 | | :white_check_mark: | | | |
+| 15:00 | | :white_check_mark: | | | |
+| 16:00 | | :white_check_mark: | :white_check_mark: | | |
+| 17:00 | | :white_check_mark: | :white_check_mark: | | |
 | 18:00 | | :white_check_mark: | :white_check_mark: | | |
 | 19:00 | | :white_check_mark: | :white_check_mark: | | |
 | 20:00 | | :white_check_mark: | | | |
