@@ -1,5 +1,6 @@
 ### Squad Fanto
 
+* Horários Disponíveis durante a semana
 ------------------------------------------
 |  | Domingo | Segunda | Terça| Quarta | Quinta | Sexta | Sábado | 
 |--- |--- |--- |--- |--- |--- |--- |--- |
@@ -10,7 +11,11 @@
 | <a href="https://tools.ages.pucrs.br/arthur.ibarra">Arthur Sudbrack Ibarra</a> | 13:00 - 17:00<br>18:00 - 22:00<br>22:00 - 00:00|22:00 - 00:00 |18:00 - 22:00 |22:00 - 00:00 |18:00 - 22:00 |22:00 - 00:00 |13:00 - 17:00<br>18:00 - 22:00<br>22:00 - 00:00
 | <a href="https://tools.ages.pucrs.br/gabriel.stundner">Gabriel Fanto Stundner</a>      |13:00 - 17:00<br>18:00 - 22:00 |:x: |18:00 - 22:00<br>22:00 - 00:00 |:x:|22:00 - 00:00 |22:00 - 00:00 |18:00 - 22:00<br>22:00 - 00:00
 
-#### Quinta Feira
+---
+
+#### Dias com todos disponíveis
+
+##### Quinta Feira
 
 | Horários | Felipe Freitas | Gabriel Giaretta | Israel Garcia | Marcello Marcon | Arthur Ibarra | Gabriel Fanto
 | --- | --- | --- | --- | --- | --- | --- |
@@ -32,7 +37,7 @@
 | 23:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | | :white_check_mark: | 
 | 00:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | | :white_check_mark: | 
 
-#### Sexta Feira
+##### Sexta Feira
 
 | Horários | Felipe Freitas | Gabriel Giaretta | Israel Garcia | Marcello Marcon | Arthur Ibarra | Gabriel Fanto
 | --- | --- | --- | --- | --- | --- | --- |
@@ -54,26 +59,26 @@
 | 23:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
 | 00:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
 
-#### Sábado
-
-#### Sexta Feira
+##### Sábado
 
 | Horários | Felipe Freitas | Gabriel Giaretta | Israel Garcia | Marcello Marcon | Arthur Ibarra | Gabriel Fanto
 | --- | --- | --- | --- | --- | --- | --- |
-| 08:00 | :white_check_mark: | | | | |
-| 09:00 | :white_check_mark: | | | | |
-| 10:00 | :white_check_mark: | | | | |
-| 11:00 | :white_check_mark: | | | | |
+| 08:00 | :white_check_mark: | | :white_check_mark: | :white_check_mark: | |
+| 09:00 | :white_check_mark: | | :white_check_mark: | :white_check_mark: | |
+| 10:00 | :white_check_mark: | | :white_check_mark: | :white_check_mark: | |
+| 11:00 | :white_check_mark: | | :white_check_mark: | :white_check_mark: | |
 | 12:00 | :white_check_mark: | | | | |
-| 13:00 | :white_check_mark: | | | | |
-| 14:00 | :white_check_mark: | | | | |
-| 15:00 | :white_check_mark: | | | | |
-| 16:00 | | | | | |
-| 17:00 | | | | | |
-| 18:00 | | | | | |
-| 19:00 | | | | | |
-| 20:00 | | | | | |
-| 21:00 | | | | | |
-| 22:00 | | | | | |  
-| 23:00 | | | | | |  
-| 00:00 | | | | | | 
+| 13:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 14:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 15:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 16:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 17:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 18:00 | :white_check_mark: | :white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: 
+| 19:00 | :white_check_mark: | :white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: 
+| 20:00 | :white_check_mark: | :white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: 
+| 21:00 | :white_check_mark: | :white_check_mark: | | :white_check_mark: | :white_check_mark: | :white_check_mark: 
+| 22:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | | :white_check_mark: | :white_check_mark:  
+| 23:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | | :white_check_mark: | :white_check_mark:  
+| 00:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | | :white_check_mark: | :white_check_mark: 
+
+
