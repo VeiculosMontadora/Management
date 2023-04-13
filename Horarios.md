@@ -55,7 +55,7 @@
 | 19:00 | | :white_check_mark: | :white_check_mark: | | |
 | 20:00 | | :white_check_mark: | | | |
 | 21:00 | | :white_check_mark: | | | |
-| 22:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
+| 22:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | | :white_check_mark: | 
 | 23:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
 | 00:00 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | 
 
