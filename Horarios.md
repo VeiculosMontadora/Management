@@ -19,10 +19,10 @@
 
 | Horários | Felipe Freitas | Gabriel Giaretta | Israel Garcia | Marcello Marcon | Arthur Ibarra | Gabriel Fanto
 | --- | --- | --- | --- | --- | --- | --- |
-| 08:00 | |  :white_check_mark: | :white_check_mark: | | |
-| 09:00 | |  :white_check_mark: | :white_check_mark: | | |
-| 10:00 | |  :white_check_mark: | :white_check_mark: | | |
-| 11:00 | |  :white_check_mark: | :white_check_mark: | | |
+| 08:00 | |  :white_check_mark: | | | |
+| 09:00 | |  :white_check_mark: | | | |
+| 10:00 | |  :white_check_mark: | | | |
+| 11:00 | |  :white_check_mark: | | | |
 | 12:00 | |  | | | |
 | 13:00 | :white_check_mark: | :white_check_mark: | | | |
 | 14:00 | :white_check_mark: | :white_check_mark: | | | |
