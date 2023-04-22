@@ -47,3 +47,17 @@ pie title Daily 07/04 - Sprint 1
     "Participaram" : 5
     "Não participaram" : 13
 ```
+
+##### SPRINT 2
+
+```mermaid
+pie title Daily 14/04 - Sprint 2
+    "Participaram" : 14
+    "Não participaram" : 4
+```
+
+```mermaid
+pie title Daily 21/04 - Sprint 2
+    "Participaram" : 8
+    "Não participaram" : 10
+```
